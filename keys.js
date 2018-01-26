@@ -22,4 +22,3 @@ var spotify = new Spotify({
 module.exports.client = client;
 module.exports.spotify = spotify;
 
-
